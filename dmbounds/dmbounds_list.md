@@ -92,10 +92,7 @@
 --- 
 
 ### [MULTI-INST](https://github.com/micheledoro/gDMbounds/tree/main/dmbounds/bounds/multi-inst)
-
 - MAGIC and Fermi-LAT Collaborations 2016 "Limits to dark matter annihilation cross-section from a combined analysis of MAGIC and Fermi-LAT observations of dwarf satellite galaxies" [doi](https://doi.org/10.1088/1475-7516/2016/02/039).
-
-- MAGIC and Fermi-LAT Collaborations 2016 (supplementary files for different annihilation channels: WW, bb̄, μ⁺μ⁻, τ⁺τ⁻) — data available in repository.
 
 ## Shower Front Detectors
 ### [CTA](https://github.com/micheledoro/gDMbounds/tree/main/dmbounds/bounds/cta)
