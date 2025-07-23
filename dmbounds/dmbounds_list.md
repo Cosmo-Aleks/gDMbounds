@@ -118,6 +118,7 @@
 
 - Zhen Cao et al. 2022 "Constraints on Heavy Decaying Dark Matter from 570 Days of LHAASO Observations" [doi](https://doi.org/10.1103/PhysRevLett.129.261103).
 
+- Zhen Cao et al. 2024 "Constraints on Ultra Heavy Dark Matter Properties from Dwarf Spheroidal Galaxies with LHAASO Observations" [doi](https://doi.org/10.1103/PhysRevLett.133.061001)
 
 
 
