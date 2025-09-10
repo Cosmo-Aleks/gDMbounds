@@ -31,6 +31,7 @@
 
 
 ## IACTS
+
 ### [VERITAS](https://github.com/micheledoro/gDMbounds/tree/main/dmbounds/bounds/veritas)
 
 - T. Arlen et al. 2012 "Constraints on Cosmic Rays, Magnetic Fields, and Dark Matter from Gamma-Ray Observations of the Coma Cluster of Galaxies with VERITAS and Fermi" [doi](https://doi.org/10.1088/0004-637X/757/2/123).
@@ -50,8 +51,7 @@
 
 - MAGIC Collaboration 2022 "Combined searches for dark matter in dwarf spheroidal galaxies observed with the MAGIC telescopes" [doi](https://doi.org/10.1088/1475-7516/2022/03/073).
 
-- MAGIC Collaboration 2023 "Searches for dark matter signals from the Perseus cluster with the MAGIC telescopes" [doi](https://doi.org/10.1088/1475-7516/2023/03/055).
-
+- MAGIC Collaboration 2023 "Searches for dark matter signals from the Perseus cluster with the MAGIC telescopes" [doi](https://doi.org/10.1088/1475-7516/2023/03/055)
 
 ### [CTA](https://github.com/micheledoro/gDMbounds/tree/main/dmbounds/bounds/cta)
 
@@ -68,7 +68,6 @@
 - F. Calore et al. 2022 "CTA sensitivity to DM annihilation in dwarf spheroidal galaxies" [arXiv:2208.13803](https://arxiv.org/abs/2208.13803).
 
 - V. Lefranc et al. 2015 "Dark matter search in dSphs with CTA" [arXiv:1509.04123](https://arxiv.org/abs/1509.04123).
-
 
 
 ### [HESS](https://github.com/micheledoro/gDMbounds/tree/main/dmbounds/bounds/hess)
@@ -89,28 +88,15 @@
 
 - H.E.S.S. Collaboration 2022, "Searches for dark matter signals in the H.E.S.S. Galactic Plane Survey" [doi](https://doi.org/10.1103/PhysRevD.106.042011), [arXiv:2204.11970](https://arxiv.org/abs/2204.11970).  
 
---- 
-
 ### [MULTI-INST](https://github.com/micheledoro/gDMbounds/tree/main/dmbounds/bounds/multi-inst)
-- MAGIC and Fermi-LAT Collaborations 2016 "Limits to dark matter annihilation cross-section from a combined analysis of MAGIC and Fermi-LAT observations of dwarf satellite galaxies" [doi](https://doi.org/10.1088/1475-7516/2016/02/039).
+- MAGIC collaboration 2016 "Limits to dark matter annihilation cross-section from a combined analysis of MAGIC and Fermi-LAT observations of dwarf satellite galaxies" [doi](https://doi.org/10.1088/1475-7516/2016/02/039).
+
 
 ## Shower Front Detectors
-### [CTA](https://github.com/micheledoro/gDMbounds/tree/main/dmbounds/bounds/cta)
+### [HAWC](https://github.com/micheledoro/gDMbounds/tree/main/dmbounds/bounds/hawc)
+- A. Albert at al. 2018 "Search for Dark Matter Gamma-ray Emission from the Andromeda Galaxy with the High-Altitude Water Cherenkov Observatory" [doi](https://doi.org/10.1088/1475-7516/2018/06/043).
 
-- Funk 2015 "Indirect detection of dark matter with γ rays" PNAS 2014 112 (40) 12264-12271 [doi](https://doi.org/10.1073/pnas.1308728111). 
-
-- CTA Consortium 2019 "Science with the Cherenkov Telescope Array" [doi](https://doi.org/10.1142/10986).
-
-- A. Acharyya et al. 2021 "Sensitivity of the Cherenkov Telescope Array to a dark matter signal from the Galactic centre" [doi](https://doi.org/10.1088/1475-7516/2021/01/057).
-
-- A. Acharyya et al. 2023 "Sensitivity of the Cherenkov Telescope Array to TeV photon emission from the Large Magellanic Cloud" [doi](https://doi.org/10.1093/mnras/stad1576).
-
-- C. C. Lu et al. 2022 "Constraining the annihilation cross section of dark matter using the H.E.S.S. and CTA observations of the Galactic center" [arXiv:2208.03667](https://arxiv.org/abs/2208.03667).
-
-- F. Calore et al. 2022 "CTA sensitivity to DM annihilation in dwarf spheroidal galaxies" [arXiv:2208.13803](https://arxiv.org/abs/2208.13803).
-
-- V. Lefranc et al. 2015 "Dark matter search in dSphs with CTA" [arXiv:1509.04123](https://arxiv.org/abs/1509.04123).
-
+- A. Albert at al. 2018 "Dark Matter Limits From Dwarf Spheroidal Galaxies with The HAWC Gamma-Ray Observatory" [doi](https://doi.org/10.3847/1538-4357/aaa6d8).
 
 
 ### [LHAASO](https://github.com/micheledoro/gDMbounds/tree/main/dmbounds/bounds/lhaaso)
@@ -119,8 +105,6 @@
 - Zhen Cao et al. 2022 "Constraints on Heavy Decaying Dark Matter from 570 Days of LHAASO Observations" [doi](https://doi.org/10.1103/PhysRevLett.129.261103).
 
 - Zhen Cao et al. 2024 "Constraints on Ultra Heavy Dark Matter Properties from Dwarf Spheroidal Galaxies with LHAASO Observations" [doi](https://doi.org/10.1103/PhysRevLett.133.061001)
-
-
 
 ## Other wavelengths
 ### [ASKAP](https://github.com/micheledoro/gDMbounds/tree/main/dmbounds/bounds/askap)
